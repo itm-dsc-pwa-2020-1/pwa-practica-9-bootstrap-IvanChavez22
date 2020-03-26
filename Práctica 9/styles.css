@@ -1,0 +1,20 @@
+#marketing {
+    padding-top: 2em;
+}
+
+#buscar{
+    color: white;
+    border-color: white;
+}
+
+.carrusel {
+    font-size: 30px;
+    -webkit-text-stroke: 0.1px black;
+    color: white;
+}
+
+.boton {
+    background-color: black;
+    color: black;
+    border-color: black;
+}
